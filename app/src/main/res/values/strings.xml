@@ -1,3 +1,20 @@
 <resources>
     <string name="app_name">ui_task</string>
+    <string name="susan_klein">Susan klein</string>
+    <string name="profile">Profile</string>
+    <string name="chat">Chat</string>
+    <string name="no">No</string>
+    <string name="music">Music</string>
+    <string name="travel">Travel</string>
+    <string name="photography">Photography</string>
+    <string name="sports">Sports</string>
+    <string name="_20">+20</string>
+    <string name="backgound">backgound</string>
+    <string name="gradient">gradient</string>
+    <string name="australia">Australia</string>
+    <string name="yes">Yes</string>
+    <string name="online">Online</string>
+    <string name="_24">24</string>
+    <string name="wants_to_make_new_friends">Wants to make new friends</string>
+    <string name="interests">Interests</string>
 </resources>
